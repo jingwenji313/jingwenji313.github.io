@@ -6,4 +6,3 @@ Hi, I'm Jingwen Ji.
 
 A graduate student from the Department of Information with a concentration on human-centered data science.
 
-Stars fill my dream, I am a traveler of both time and space.
